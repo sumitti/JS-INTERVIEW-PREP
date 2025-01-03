@@ -10,4 +10,4 @@ password = 9789153465
 username = "amit-tiwari"
 city = "Jaipur"
 
-console.table([password,username,city])
+console.table([password,username,city])//print table
