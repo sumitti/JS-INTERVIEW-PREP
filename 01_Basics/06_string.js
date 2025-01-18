@@ -12,3 +12,6 @@ console.log(url.replace("google","youtube"))
 let name = "Sumit Tiwari"
 console.log(name.split(" "))
 console.log(`Hello !! my first name is ${name.split(" ")[0]} and last name is ${name.split(" ")[1]}`)
+
+number = 5
+number.toString(2)//convert number to string in binary format
